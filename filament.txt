@@ -1,0 +1,7 @@
+php artisan make:filament-user  -> creer une nouvelle user
+php artisan make:filament-resource Users -> creer une nouvelle resource(CRUD) avec model
+
+php artisan make:model -m 
+    -   creer model
+    -   creer migration 
+    
